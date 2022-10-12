@@ -8,11 +8,11 @@
 
 <br/>
 <p align="center">
-<img src="./images/RandomNft/pug.png" width="225" alt="NFT Pug">
+<img src="./images/RandomNFT/pug.png" width="225" alt="NFT Pug">
 <img src="./images/dynamic/happy.svg" width="225" alt="NFT Happy">
-<img src="./images/RandomNft/shiba-inu.png" width="225" alt="NFT Shiba">
+<img src="./images/RandomNFT/shiba-inu.png" width="225" alt="NFT Shiba">
 <img src="./images/dynamic/frown.svg" width="225" alt="NFT Frown">
-<img src="./images/RandomNft/st-bernard.png" width="225" alt="NFT St.Bernard">
+<img src="./images/RandomNFT/st-bernard.png" width="225" alt="NFT St.Bernard">
 </p>
 <br/>
 
